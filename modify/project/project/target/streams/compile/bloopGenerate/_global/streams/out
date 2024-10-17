@@ -1,0 +1,4 @@
+[debug] [modify-build-build] Classpath dependencies List()
+[debug] [modify-build-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'modify-build-build' to '/home/user/VexRiscv/modify/project/project/.bloop/modify-build-build.json'
+[success] Generated .bloop/modify-build-build.json

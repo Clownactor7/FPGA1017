@@ -1,0 +1,19 @@
+-d /home/user/VexRiscv/fpga_project/VexRiscv/impl/gwsynthesis/VexRiscv.vg
+-p GW5AST-138B-PBGA676A-1
+-pn GW5AST-LV138PG676AES
+-cst /home/user/VexRiscv/fpga_project/VexRiscv/src/VexRiscv.cst
+-cfg /home/user/VexRiscv/fpga_project/VexRiscv/impl/pnr/device.cfg
+-sdc /home/user/VexRiscv/fpga_project/VexRiscv/src/VexRiscv.sdc
+-bit
+-tr
+-ph
+-timing
+-ireg_not_in_iob
+-oreg_not_in_iob
+-ioreg_not_in_iob
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000
+-enable_dsrm 0

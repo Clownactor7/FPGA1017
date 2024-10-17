@@ -1,0 +1,21 @@
+{
+ "Device" : "GW2A-18C",
+ "Files" : [
+  {
+   "Path" : "/home/user/VexRiscv/fpga_project/VexRiscv/src/Briey.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "/home/user/VexRiscv/fpga_project/VexRiscv/src/ddr3_memory_interface/ddr3_memory_interface.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "/home/user/VexRiscv/fpga_project/VexRiscv/impl/temp/rtl_parser.result",
+ "Top" : "Briey",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

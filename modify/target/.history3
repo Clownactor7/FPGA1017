@@ -1,0 +1,6 @@
+1727147843656:compile
+1727147950318:runMain vexriscv.demo.GenFull
+1727149584010:runMain vexriscv.demo.BrieyWithMemoryInit
+1727161535483:exit
+1727407902151:runMain vexriscv.demo.VexRiscvAxi4LinuxPlicClint
+1727407914221:exit
