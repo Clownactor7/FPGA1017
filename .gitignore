@@ -3,3 +3,6 @@
 .metals/
 
 .vscode/
+
+.metals/metals.lock.db
+
