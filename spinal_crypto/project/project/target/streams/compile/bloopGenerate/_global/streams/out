@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0m[spinalcrypto-build-build] Classpath dependencies List()[0m
-[0m[[0m[0mdebug[0m] [0m[0m[spinalcrypto-build-build] Dependencies from configurations List()[0m
-[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'spinalcrypto-build-build' to '/home/user/spinal_crypto/SpinalCrypto/project/project/.bloop/spinalcrypto-build-build.json'[0m
-[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/spinalcrypto-build-build.json[0m
+[debug] [spinal_crypto-build-build] Classpath dependencies List()
+[debug] [spinal_crypto-build-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'spinal_crypto-build-build' to '/home/user/VexRiscv/spinal_crypto/project/project/.bloop/spinal_crypto-build-build.json'
+[success] Generated .bloop/spinal_crypto-build-build.json
