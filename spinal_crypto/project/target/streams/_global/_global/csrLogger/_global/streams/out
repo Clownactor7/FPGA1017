@@ -1,0 +1,5 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/xerial/sbt/sbt-sonatype_2.12_1.0/2.3/sbt-sonatype-2.3-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.2.6/httpclient-4.2.6-sources.jar
